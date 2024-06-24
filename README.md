@@ -1,8 +1,7 @@
 # CaesarCipher
 
-<!-- BEGIN mktoc -->
+<!-- BEGIN mktoc {"min_depth": 2 } -->
 
-- [CaesarCipher](#caesarcipher)
 - [Usage](#usage)
   - [Function signatures](#function-signatures)
     - [encode](#encode)
